@@ -3,7 +3,7 @@
 
 # The Julia Language for Productive High-Performance Computing Tutorial @ SC24
 
-**Instructors:** [William F Godo](https://github.com/williamfgc), [Johannes Blaschke](https://github.com/JBlaschke), [Pedro Valero-Lara] (https://github.com/pedrovalerolara), [Rabab Alomairy](https://github.com/Rabab53), [Mosè Giordano] (https://github.com/giordano) and [Julian Samaroo](https://github.com/jpsamaroo).
+**Instructors:** [William F Godo](https://github.com/williamfgc), [Johannes Blaschke](https://github.com/JBlaschke), [Pedro Valero-Lara](https://github.com/pedrovalerolara), [Rabab Alomairy](https://github.com/Rabab53), [Mosè Giordano](https://github.com/giordano) and [Julian Samaroo](https://github.com/jpsamaroo).
 
 **Where:**  Georgia World Congress Center - B202
 
@@ -35,19 +35,19 @@ We will again host a [Julia for HPC BoF at SC24](https://github.com/JuliaParalle
      * [Serial] (./codes/multithreading)
      * [Multithreading] (./codes/multithreading)
   * [GPU acceleration](./codes/accelerator)
-     * [CUDA] (./codes/accelerator)
-     * [AMD GPUs] (./codes/accelerator)
+     * [CUDA](./codes/accelerator)
+     * [AMD GPUs](./codes/accelerator)
 
       (short break)
       
-     * [Kernel abstracttion] (./codes/accelerator)
+     * [Kernel abstracttion](./codes/accelerator)
 
      (practice)
 
-     * [JACC] (./codes/accelerator)
+     * [JACC](./codes/accelerator)
 
      (practice)
 
   * [MPI parallelization](./codes/mpi-distributed)
-  * [ADIOS] (./codes/adios2)
+  * [ADIOS](./codes/adios2)
      
