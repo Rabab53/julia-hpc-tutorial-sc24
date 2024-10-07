@@ -9,7 +9,7 @@
 
 **When:** Sunday, 17 November 2024, 1:30pm - 5pm EST
 
-**More:** [The Julia Language for Productive High PC](https://sc24.conference-program.com/presentation/?id=tut130&sess=sess433)
+**More:** [The Julia Language for Productive HPC](https://sc24.conference-program.com/presentation/?id=tut130&sess=sess433)
 
 ## Apply for your Training at a DOE Supercomputer Now!
 
@@ -32,8 +32,8 @@ We will again host a [Julia for HPC BoF at SC24](https://github.com/JuliaParalle
 
 * **Parallelization on Perlmutter**
   * [Multithreading](./codes/multithreading)
-     * [Serial] (./codes/multithreading)
-     * [Multithreading] (./codes/multithreading)
+     * [Serial](./codes/multithreading)
+     * [Multithreading](./codes/multithreading)
   * [GPU acceleration](./codes/accelerator)
      * [CUDA](./codes/accelerator)
      * [AMD GPUs](./codes/accelerator)
